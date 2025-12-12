@@ -1,0 +1,15 @@
+# Title: otacon424/whitelist_v1
+# 
+# This whitelist is a collection of urls that will be allowed on my network
+# which are normally blocked by either the host files from StevenBlack or the
+# blacklist from Pyenb. 
+
+# Date: 11 December 2025 16:09:19 (UTC)
+# Number of unique domains: 1
+# =================================
+
+#=======================
+#Title: Unique Domains contributed by Otacon424
+# <Insert URL> 
+
+0.0.0.0 hianime.to
